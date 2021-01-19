@@ -12,7 +12,7 @@
 
 	/*For Header*/
 	#header .navbar a {
-	    padding: 2%;
+		padding: 2%;
 	}
 	#header .navbar .btn {
 		padding: 0;
@@ -24,7 +24,7 @@
 	/*For Home*/
 	#home img {
 		width: 200px;
-	    min-width: 100%;
+	    	min-width: 100%;
 	}
 	#home .col:nth-child(1) {
 		padding: 5%;
@@ -61,8 +61,8 @@
 	/*For Services*/
 	#services .service-box {
 		height: 300px;
-	    max-width: 400px;
-	    margin: 2% auto;
+	    	max-width: 400px;
+	    	margin: 2% auto;
 	}
 	#services .service-box:hover {
 		transform: none;
@@ -89,14 +89,14 @@
 		min-width: 100%;
 	}
 	#contact-us .row .col .form {
-	    padding: 2%;
+	    	padding: 2%;
 	}
 	#contact-us .row .col .form .btn {
 		width: 100%;
 	}
 	#contact-us .row .col iframe {
-	    min-height: 250px;
-	    height: auto;
+	    	min-height: 250px;
+	    	height: auto;
 	}
 
 	/*For Footer*/
@@ -106,7 +106,7 @@
 @media (min-width: 576px) and (max-width: 767.98px) {
 	/*For Header*/
 	#header .navbar a {
-	    padding: 3%;
+	    	padding: 3%;
 	} 
 
 	/*For Home*/
@@ -173,7 +173,7 @@
 /*Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199.98px) { 
 	#header .navbar {
-	    position: absolute;
+	    	position: absolute;
 	}
 	#home .col:nth-child(1) {
 		padding: 50px 90px 10px 40px;
@@ -185,9 +185,8 @@
 
 	/*For Pricing*/
 	#pricing .business {
-	    background-color: #fff;
-	    /*transform: translateY(-20px);*/
-	    margin-top: -10px;
+	    	background-color: #fff;
+	    	margin-top: -10px;
 	}
 
 	/*For About Us*/
@@ -201,7 +200,7 @@
 @media (min-width: 1200px) { 
 	/*For Header*/
 	#header .navbar {
-	    position: absolute;
+	    	position: absolute;
 	}
 
 	/*For Home*/
@@ -215,9 +214,8 @@
 
 	/*For Pricing*/
 	#pricing .business {
-	    background-color: #fff;
-	    /*transform: translateY(-20px);*/
-	    margin-top: -10px;
+	    	background-color: #fff;
+	    	margin-top: -10px;
 	}
 
 	/*For About Us*/

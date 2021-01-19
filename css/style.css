@@ -1,9 +1,6 @@
 html, body {
 	min-height: 100%; 
 	overflow-x: hidden;
-}
-
-body, h1, h2, h3, h4, h5, h6 {
 	font-family: open sans, sans-serif;
 }
 a {

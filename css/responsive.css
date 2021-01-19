@@ -7,9 +7,9 @@
 	[data-aos-duration="2000"], 
 	[data-aos-duration="3000"], 
 	[data-aos-duration="4000"] {
-	    transition-duration: 0s !important;
+	    transition-duration: 1s !important;
 	}
-	
+
 	/*For Header*/
 	#header .navbar a {
 	    padding: 2%;
@@ -67,7 +67,10 @@
 	    max-width: 400px;
 	    margin: 2% auto;
 	}
-
+	#services .service-box:hover {
+		transform: none;
+		box-shadow: none;
+	}
 	/*For Pricing*/
 	#pricing .prices .col {
 		flex: none;

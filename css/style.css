@@ -1,3 +1,4 @@
+/* For All */
 html, body {
 	min-height: 100%; 
 	overflow-x: hidden;
@@ -16,13 +17,11 @@ h1.display-4::after {
 	content: "";
 	display: block;
 	width: 50px;
-    height: 3px;
-    background: #08192d;
-    bottom: 0;
-    margin: 1% auto;
+    	height: 3px;
+    	background: #08192d;
+    	bottom: 0;
+    	margin: 1% auto;
 }
-
-
 
 /*For Header*/
 #header .navbar {
@@ -32,8 +31,8 @@ h1.display-4::after {
 }
 #header .navbar .container {
 	background: #08192d;
-    max-width: 100%;
-    opacity: 0.9;
+    	max-width: 100%;
+    	opacity: 0.9;
 }
 #header .navbar-light {
 	border: none;
@@ -42,13 +41,13 @@ h1.display-4::after {
 #header .navbar a {
 	color: #fff;
 	padding: 20px;
-    font-size: 18px;
+    	font-size: 18px;
 }
 #header .navbar .btn {
 	background: #fc0254;
-    width: 210px;
-    border-radius: 50px;
-    padding: 15px;
+    	width: 210px;
+    	border-radius: 50px;
+    	padding: 15px;
 }
 
 /*For Home*/
@@ -60,7 +59,7 @@ h1.display-4::after {
 }
 #home img {
 	max-height: 500px;
-    min-width: 170px;
+   	 min-width: 170px;
 }
 
 /*For Features*/
@@ -77,9 +76,9 @@ h1.display-4::after {
 	height: 210px;
 }
 #features .imgs h4 {
-    background: #0a183d;
-    color: #fff;
-    padding: 2%;
+    	background: #0a183d;
+    	color: #fff;
+    	padding: 2%;
 }
 
 /*For Clients*/
@@ -99,7 +98,7 @@ h1.display-4::after {
 	padding-bottom: 9vw;
 }
 #services h1.display-4::after {
-    background: #fc0254;
+    	background: #fc0254;
 }
 #services .service-box {
 	background: #1c294a;
@@ -121,8 +120,8 @@ h1.display-4::after {
 	color: #0a183d;
 }
 #services .box-description {
-    font-size: 15px;
-    line-height: 28px;
+    	font-size: 15px;
+    	line-height: 28px;
 }
 
 /*For Pricing*/
@@ -131,20 +130,20 @@ h1.display-4::after {
 	padding-bottom: 9vw;
 }
 #pricing .prices .col {
-    padding: 0;
+    	padding: 0;
 }
 #pricing .pricing-table {
 	box-shadow: 0 0 10px 0 rgb(35 31 32 / 10%);
-    background-color: #fbfbfd;
-    padding: 20px;
-    overflow: hidden;
+    	background-color: #fbfbfd;
+    	padding: 20px;
+    	overflow: hidden;
 }
 #pricing .prices .col:nth-child(2) {
 	position: relative;
-    z-index: 10;
+    	z-index: 10;
 }
 #pricing .business {
-    background-color: #fff;
+    	background-color: #fff;
 }
 #pricing .title {
 	padding: 28px 0;
@@ -152,20 +151,20 @@ h1.display-4::after {
 }
 #pricing .price .p {
 	font-weight: 100;
-    font-size: 64px;
-    color: #212429;
-    line-height: 1;
+    	font-size: 64px;
+    	color: #212429;
+    	line-height: 1;
 }
 #pricing .price sup {
-    font-size: 32px;
-    top: -20px;
+    	font-size: 32px;
+    	top: -20px;
 }
 #pricing ul li {
 	padding: 1px 20px;
-    line-height: 40px;
+    	line-height: 40px;
 }
 #pricing .content ul li:nth-child(odd) {
-    background-color: #f6f8f9;
+    	background-color: #f6f8f9;
 }
 #pricing .foot .btn {
 	color: #3b4ef8;
@@ -230,7 +229,7 @@ h1.display-4::after {
 	padding: 0 38px;
 	height: 57px;
 	font-size: 14px;
-    font-weight: 500;
+    	font-weight: 500;
 	border-radius: 15px;
 	margin-bottom: 14px;
 	color: #6a7080;
@@ -246,22 +245,22 @@ h1.display-4::after {
 #contact-us .btn {
 	color: #fff;
 	background: #fc0254;
-    width: 210px;
-    border-radius: 50px;
-    padding: 15px;
+    	width: 210px;
+    	border-radius: 50px;
+    	padding: 15px;
 }
 /*For Footer*/
 #footer {
 	color: #fff;
 	background: #0a183d;
-    padding: 100px 0 85px;
+    	padding: 100px 0 85px;
 }
 #footer .copyright {
-    font-size: 11px;
-    text-transform: uppercase;
-    font-weight: 500;
-    color: #505565;
-    padding: 10px 0 25px;
+    	font-size: 11px;
+    	text-transform: uppercase;
+    	font-weight: 500;
+    	color: #505565;
+    	padding: 10px 0 25px;
 }
 #footer .footer-links h4 a {
 	color: #fff;

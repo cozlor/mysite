@@ -22,9 +22,6 @@
 	}
 
 	/*For Home*/
-	#home {
-		padding-top: 5vh;
-	}
 	#home img {
 		width: 200px;
 	    min-width: 100%;
@@ -113,9 +110,6 @@
 	} 
 
 	/*For Home*/
-    #home {
-        padding-top: 10vh;
-    }
 	#home .col:nth-child(2) {
 		margin-top: 12vh;
 	}
@@ -151,11 +145,8 @@
 
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991.98px) {
-    /* For Home */
-    #home {
-        padding-top: 10vh;
-    }
-    
+	/*For Home*/
+
 	/*For Features*/
 	#features .imgs .col{
 		min-width: 50%;
